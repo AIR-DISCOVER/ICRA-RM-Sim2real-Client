@@ -1,0 +1,17 @@
+[submodule "abseil-cpp"]
+	path = abseil-cpp
+	url = git@github.com:TB5zhh/abseil-cpp.git
+	branch = master
+[submodule "cartographer"]
+	path = cartographer
+	url = git@github.com:TB5zhh/cartographer.git
+	branch = master
+[submodule "cartographer_ros"]
+	path = cartographer_ros
+	url = git@github.com:TB5zhh/cartographer_ros.git
+	branch = master
+[submodule "sim2real_ep"]
+	path = sim2real_ep
+	url = git@github.com:TB5zhh/sim2real_ep.git
+	branch = 2022fall
+

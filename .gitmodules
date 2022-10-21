@@ -1,7 +1,7 @@
 [submodule "abseil-cpp"]
 	path = abseil-cpp
 	url = git@github.com:TB5zhh/abseil-cpp.git
-	branch = master
+	branch = lts_2021_11_02
 [submodule "cartographer"]
 	path = cartographer
 	url = git@github.com:TB5zhh/cartographer.git
